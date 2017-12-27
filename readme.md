@@ -1,5 +1,5 @@
-Условие:
-файл Условие.ipynb
+РЈСЃР»РѕРІРёРµ:
+С„Р°Р№Р» РЈСЃР»РѕРІРёРµ.ipynb
 
-Решение:
-файл sex-classification.ipynb
+Р РµС€РµРЅРёРµ:
+С„Р°Р№Р» sex-classification.ipynb
